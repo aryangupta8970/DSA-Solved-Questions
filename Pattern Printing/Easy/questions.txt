@@ -1,0 +1,88 @@
+# Easy Pattern Printing Questions:
+
+## question 1
+
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+* * * * * 
+
+## question 2
+
+10 10 10 10 10 
+10 10 10 10 10 
+10 10 10 10 10 
+10 10 10 10 10
+
+## question 3
+
+1 1 1 1 1 
+2 2 2 2 2
+3 3 3 3 3
+4 4 4 4 4
+5 5 5 5 5
+
+## question 4
+
+1 2 3 4 5 
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+
+## question 5
+
+5 4 3 2 1 
+5 4 3 2 1
+5 4 3 2 1
+5 4 3 2 1
+5 4 3 2 1
+
+## question 6
+
+1 4 9 16 25 
+1 4 9 16 25
+1 4 9 16 25
+1 4 9 16 25
+1 4 9 16 25
+
+## question 7
+
+1 8 27 64 125 
+1 8 27 64 125
+1 8 27 64 125
+1 8 27 64 125
+1 8 27 64 125
+
+## question 8
+
+a a a a a 
+b b b b b
+c c c c c
+d d d d d
+e e e e e
+
+## question 9
+
+a b c d e 
+a b c d e
+a b c d e
+a b c d e
+a b c d e
+
+## question 10
+
+1 2 3 4 5 
+6 7 8 9 10
+11 12 13 14 15
+16 17 18 19 20
+21 22 23 24 25
+
+## question 11
+
+F G H I J K 
+F G H I J K
+F G H I J K
+F G H I J K
+F G H I J K
