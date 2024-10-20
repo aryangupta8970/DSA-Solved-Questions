@@ -1,0 +1,82 @@
+# Medium Pattern Printing Questions:
+
+## question 1
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+
+## question 2
+
+1 
+1 2 
+1 2 3 
+1 2 3 4
+1 2 3 4 5
+
+## question 3
+
+1 
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+
+## question 4
+
+1 
+2 1
+3 2 1
+4 3 2 1
+5 4 3 2 1
+6 5 4 3 2 1
+
+## question 5
+
+a 
+b b
+c c c
+d d d d
+e e e e e
+
+## question 6
+
+* * * * * 
+* * * *
+* * *
+* *
+*
+
+## question 7
+
+1 2 3 4 5 
+1 2 3 4
+1 2 3
+1 2
+1
+
+## question 8
+
+5 
+5 4
+5 4 3
+5 4 3 2
+5 4 3 2 1
+
+## question 9
+
+A B C D 
+A B C
+A B
+A
+
+## question 10
+
+10 
+10 11
+10 11 12
+10 11 12 13
+10 11 12 13 14
+10 11 12 13 14 15
