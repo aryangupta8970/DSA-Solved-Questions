@@ -11,15 +11,15 @@ If you're preparing for coding interviews, competitive programming, or looking t
 
 ## 🌟 Table of Contents
 
-- [📚 Overview](#-overview)
-- [✨ Key Features](#-key-features)
-- [📥 How to Use](#-how-to-use)
-- [📝 DSA Questions Table](#-dsa-questions-table)
-- [🌟 Key Resources](#-key-resources)
-- [🤝 Contributing](#-contributing)
-- [🤝 Connect with Me](#-connect-with-me)
-- [❓ FAQs](#-faqs)
-- [⭐ Call to Action](#-call-to-action)
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [How to Use](#-how-to-use)
+- [DSA Questions Table](#-dsa-questions-table)
+- [Key Resources](#-key-resources)
+- [Contributing](#-contributing)
+- [Connect with Me](#-connect-with-me)
+- [FAQs](#-faqs)
+- [Call to Action](#-call-to-action)
 
 
 ## 📚 Overview
@@ -45,10 +45,10 @@ This repository provides a comprehensive collection of **Data Structures and Alg
 
 | No. | Platform       | Topics           | Difficulty | Question                                       | Question Link                                                  | Solution Link                                                  |
 |-----|----------------|------------------|------------|------------------------------------------------|---------------------------------------------------|----------------------------------------------------------------|
-| 1   | <p style="text-align: center">-</p> | Pattern Printing    | Easy       | Pattern Printing     |  <p style="text-align: center">[Question](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/Pattern%20Printing/Easy/questions.txt)</p>  | <p style="text-align: center">[Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/tree/main/Pattern%20Printing/Easy)</p> |
-| 2   | <p style="text-align: center">-</p> |  Pattern Printing | Medium     | Pattern Printing      |  <p style="text-align: center">[Question](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/Pattern%20Printing/Medium/questions.txt)</p>    | <p style="text-align: center">[Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/tree/main/Pattern%20Printing/Medium)</p>|
-| 3   | <p style="text-align: center">-</p> | Pattern Printing     | Hard       | Pattern Printing                                        |  <p style="text-align: center">[Question](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/Pattern%20Printing/Hard/questions.txt)</p>  | <p style="text-align: center">[Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/tree/main/Pattern%20Printing/Hard)</p>|
-| 4   | <p style="text-align: center">-</p> | Pattern Printing  | Super Hard | Pattern Printing    |  <p style="text-align: center">[Question](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/Pattern%20Printing/Super%20Hard/questions.txt)</p>  | <p style="text-align: center">[Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/tree/main/Pattern%20Printing/Super%20Hard)</p> |
+| 1   | - | Pattern Printing    | Easy       | Pattern Printing     | [Question](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/Pattern%20Printing/Easy/questions.txt) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/tree/main/Pattern%20Printing/Easy) |
+| 2   | - |  Pattern Printing | Medium     | Pattern Printing      | [Question](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/Pattern%20Printing/Medium/questions.txt) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/tree/main/Pattern%20Printing/Medium) |
+| 3   | - | Pattern Printing     | Hard       | Pattern Printing                                        | [Question](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/Pattern%20Printing/Hard/questions.txt) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/tree/main/Pattern%20Printing/Hard) |
+| 4   | - | Pattern Printing  | Super Hard | Pattern Printing    | [Question](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/Pattern%20Printing/Super%20Hard/questions.txt) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/tree/main/Pattern%20Printing/Super%20Hard) |
 
 
 ## 🌟 Key Resources
