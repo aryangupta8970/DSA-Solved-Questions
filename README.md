@@ -51,6 +51,9 @@ This repository provides a comprehensive collection of **Data Structures and Alg
 | 4   | - | Pattern Printing  | Super Hard | Pattern Printing    | [Question](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/Pattern%20Printing/Super%20Hard/questions.txt) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/tree/main/Pattern%20Printing/Super%20Hard) |
 | 5   | LeetCode | Number Theory, Math  | Easy | Add Digits    | [Question](https://leetcode.com/problems/add-digits/description/) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/LeetCode/Add_Digits.cpp) |
 | 6   | GeeksforGeeks | Miscellaneous | Easy | Leap Year    | [Question](https://www.geeksforgeeks.org/problems/leap-year0943/1) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/Geeks%20For%20Geeks/Leap_Year.cpp) |
+| 7   | LeetCode | Math | Medium | Reverse Integer    | [Question](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/LeetCode/Reverse_Integer.cpp) |
+| 8   | LeetCode | Math, Bit Manipulation | Easy | Power of Two    | [Question](https://leetcode.com/problems/power-of-two/) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/LeetCode/Power_of_Two.cpp) |
+
 
 ## 🌟 Key Resources
 
