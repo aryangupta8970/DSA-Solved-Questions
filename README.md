@@ -55,6 +55,8 @@ This repository provides a comprehensive collection of **Data Structures and Alg
 | 8   | LeetCode | Math, Bit Manipulation | Easy | Power of Two    | [Question](https://leetcode.com/problems/power-of-two/) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/LeetCode/Power_of_Two.cpp) |
 | 9   | LeetCode | Math | Easy | Sqrt(x)  | [Question](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/LeetCode/Sqrt_of_x.cpp) |
 | 10   | LeetCode | Math | Easy |  Palindrome Number  | [Question](https://leetcode.com/problems/palindrome-number/description/) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/LeetCode/Palindrome_Number.cpp) |
+| 11   | LeetCode | Bit Manipulation | Easy |  Complement of Base 10 Integer  | [Question](https://leetcode.com/problems/complement-of-base-10-integer/description/) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/LeetCode/Complement_of_Base_10_Integer.cpp) |
+| 12   | GeeksforGeeks | Mathematical | Easy |  Trailing zeroes in factorial  | [Question](https://www.geeksforgeeks.org/problems/trailing-zeroes-in-factorial5134/1) | [Solution](https://github.com/aryangupta8970/DSA-Solved-Questions/blob/main/Geeks%20For%20Geeks/Trailing_zeroes_in_factorial.cpp) |
 
 
 ## 🌟 Key Resources
